@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1637.2 878.2" style="enable-background:new 0 0 1637.2 878.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;fill-opacity:0.5;stroke:#CCCCCC;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:14px;}
+	.st4{fill:#FFFFFF;fill-opacity:0.5;stroke:#000000;}
+	.st5{fill:#B8B8FF;stroke:#000000;}
+	.st6{fill:#BCBCFF;stroke:#000000;}
+	.st7{fill:#E5E5FF;stroke:#000000;}
+	.st8{fill:#CDCDFF;stroke:#000000;}
+	.st9{fill:#DCDCFF;stroke:#000000;}
+	.st10{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-opacity:0;}
+	.st11{fill:none;stroke:#000000;}
+	.st12{font-family:'Arial-BoldMT';}
+	.st13{font-size:18px;}
+</style>
+<g>
+	<rect x="725.5" y="122.4" class="st0" width="419.5" height="474.5"/>
+	<rect x="836.5" y="434.2" class="st1" width="196" height="63"/>
+	<text transform="matrix(1 0 0 1 914.2479 513.223)" class="st2 st3">SMAD</text>
+	<path class="st4" d="M848,439.7h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6H848c-3.3,0-6-2.7-6-6v-40C842,442.4,844.7,439.7,848,439.7
+		z"/>
+	<text transform="matrix(1 0 0 1 910.3549 455.7231)" class="st2 st3">SMAD4</text>
+	<rect x="847" y="461.7" class="st5" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 852.847 478.8897)" class="st2 st3">3.5%</text>
+	<rect x="890.7" y="461.7" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 896.597 478.8897)" class="st2 st3">3.1%</text>
+	<rect x="934.5" y="461.7" class="st7" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 940.347 478.8897)" class="st2 st3">1.0%</text>
+	<rect x="978.2" y="461.7" class="st8" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 984.097 478.8897)" class="st2 st3">2.1%</text>
+	<path class="st4" d="M947.6,171h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C941.6,173.7,944.2,171,947.6,171z"/>
+	<text transform="matrix(1 0 0 1 989.3104 201.99)" class="st2 st3">Activin ligands</text>
+	<rect x="733.7" y="277.3" class="st1" width="196" height="63"/>
+	<text transform="matrix(1 0 0 1 807.9569 356.2608)" class="st2 st3">TGFBR</text>
+	<path class="st4" d="M745.2,282.8h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C739.2,285.4,741.9,282.8,745.2,282.8z"/>
+	<text transform="matrix(1 0 0 1 807.9569 313.7607)" class="st2 st3">TGFBR</text>
+	<path class="st4" d="M745.2,171h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C739.2,173.7,741.9,171,745.2,171z"/>
+	<text transform="matrix(1 0 0 1 788.8846 201.99)" class="st2 st3">TGFB ligands</text>
+	<rect x="939.5" y="276.4" class="st1" width="196" height="63"/>
+	<text transform="matrix(1 0 0 1 1014.1564 355.4001)" class="st2 st3">ACVR2</text>
+	<path class="st4" d="M951,281.9h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6H951c-3.3,0-6-2.7-6-6v-40C945,284.6,947.7,281.9,951,281.9
+		z"/>
+	<text transform="matrix(1 0 0 1 1009.4875 297.9)" class="st2 st3">ACVR2A</text>
+	<rect x="950" y="303.9" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 955.8727 321.0668)" class="st2 st3">3.1%</text>
+	<rect x="993.7" y="303.9" class="st9" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 999.6227 321.0668)" class="st2 st3">1.4%</text>
+	<rect x="1037.5" y="303.9" class="st8" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 1043.3728 321.0668)" class="st2 st3">2.1%</text>
+	<rect x="1081.2" y="303.9" class="st7" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 1087.1228 321.0668)" class="st2 st3">1.0%</text>
+	<rect x="802.1" y="556.9" class="st10" width="264" height="24"/>
+	<text transform="matrix(1 0 0 1 809.6201 573.9196)" class="st2 st3">Proliferation, stem/progenitor phenotype</text>
+	<polygon points="906.1,429.7 912.8,425.3 913.8,434.2 	"/>
+	<line class="st11" x1="852.3" y1="340.3" x2="909.5" y2="427.5"/>
+	<polygon points="956.1,425.3 962.8,429.7 955,434.2 	"/>
+	<line class="st11" x1="1016.9" y1="339.4" x2="959.4" y2="427.5"/>
+	<polygon points="1032.3,268.5 1040.3,268.3 1036.5,276.4 	"/>
+	<line class="st11" x1="1034.9" y1="223" x2="1036.3" y2="268.4"/>
+	<polygon points="827.7,269.3 835.7,269.3 831.7,277.3 	"/>
+	<line class="st11" x1="831.7" y1="223" x2="831.7" y2="269.3"/>
+	<polygon points="930.2,548.9 938.2,548.9 934.2,556.9 	"/>
+	<line class="st11" x1="934.4" y1="491.7" x2="934.2" y2="548.9"/>
+	<text transform="matrix(1 0 0 1 734.5 149.3898)" class="st12 st13">TGF beta pathway</text>
+</g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1312.1 703.8" style="enable-background:new 0 0 1312.1 703.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-opacity:0;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:14px;}
+	.st4{fill:#FFFFFF;fill-opacity:0.5;stroke:#000000;}
+	.st5{fill:#D4D4FF;stroke:#000000;}
+	.st6{fill:#E5E5FF;stroke:#000000;}
+	.st7{fill:#F0F0FF;stroke:#000000;}
+	.st8{fill:#8989FF;stroke:#000000;}
+	.st9{fill:#6969FF;stroke:#000000;}
+	.st10{fill:#8585FF;stroke:#000000;}
+	.st11{fill:#B3B3FF;stroke:#000000;}
+	.st12{fill:#CDCDFF;stroke:#000000;}
+	.st13{fill:#DCDCFF;stroke:#000000;}
+	.st14{fill:none;stroke:#000000;stroke-width:2;}
+	.st15{fill:none;stroke:#000000;}
+	.st16{font-family:'Arial-BoldMT';}
+	.st17{font-size:18px;}
+</style>
+<g>
+	<rect x="104.5" y="183.4" class="st0" width="677.5" height="297"/>
+	<rect x="241.8" y="443.9" class="st1" width="192" height="24"/>
+	<text transform="matrix(1 0 0 1 259.6527 460.9316)" class="st2 st3">Cell survival, proliferation</text>
+	<path class="st4" d="M122.6,308.7h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C116.6,311.4,119.3,308.7,122.6,308.7z"/>
+	<text transform="matrix(1 0 0 1 180.7314 324.6799)" class="st2 st3">CDKN2A</text>
+	<rect x="121.6" y="330.7" class="st5" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 127.5029 347.8466)" class="st2 st3">1.7%</text>
+	<rect x="165.4" y="330.7" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 171.2529 347.8466)" class="st2 st3">1.0%</text>
+	<rect x="209.1" y="330.7" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 215.0029 347.8466)" class="st2 st3">1.0%</text>
+	<rect x="252.9" y="330.7" class="st7" width="43.7" height="25"/>
+	<text transform="matrix(1 0 0 1 258.7529 347.8466)" class="st2 st3">0.7%</text>
+	<rect x="598.4" y="212.3" class="st1" width="156" height="24"/>
+	<text transform="matrix(1 0 0 1 607.5076 229.333)" class="st2 st3">DNA replication stress</text>
+	<rect x="453.9" y="444.8" class="st1" width="150" height="24"/>
+	<text transform="matrix(1 0 0 1 456.5574 461.7502)" class="st2 st3">Senescence, apoptosis</text>
+	<path class="st4" d="M350.4,310.8h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C344.4,313.4,347.1,310.8,350.4,310.8z"/>
+	<text transform="matrix(1 0 0 1 420.2087 326.7502)" class="st2 st3">TP53</text>
+	<rect x="349.4" y="332.8" class="st8" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 355.3147 349.9168)" class="st2 st3">9.4%</text>
+	<rect x="393.2" y="332.8" class="st9" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 395.0647 349.9168)" class="st2 st3">17.4%</text>
+	<rect x="436.9" y="332.8" class="st8" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 442.8147 349.9168)" class="st2 st3">9.4%</text>
+	<rect x="480.7" y="332.8" class="st10" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 482.5647 349.9168)" class="st2 st3">10.1%</text>
+	<rect x="378.7" y="210.6" class="st1" width="120" height="24"/>
+	<text transform="matrix(1 0 0 1 384.6565 227.5665)" class="st2 st3">Oncogenic stress</text>
+	<path class="st4" d="M590.8,307.3h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C584.8,310,587.5,307.3,590.8,307.3z"/>
+	<text transform="matrix(1 0 0 1 663.0189 323.3398)" class="st2 st3">ATM</text>
+	<rect x="589.8" y="329.3" class="st11" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 595.6503 346.5065)" class="st2 st3">3.8%</text>
+	<rect x="633.5" y="329.3" class="st7" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 639.4003 346.5065)" class="st2 st3">0.7%</text>
+	<rect x="677.3" y="329.3" class="st12" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 683.1503 346.5065)" class="st2 st3">2.1%</text>
+	<rect x="721" y="329.3" class="st13" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 726.9003 346.5065)" class="st2 st3">1.4%</text>
+	<line class="st14" x1="342.4" y1="339.9" x2="342.5" y2="331.9"/>
+	<line class="st15" x1="301.6" y1="335.5" x2="342.4" y2="335.9"/>
+	<polygon points="673,299.4 681,299.3 677.1,307.3 	"/>
+	<line class="st15" x1="676.5" y1="236.3" x2="677" y2="299.3"/>
+	<polygon points="511.7,440.8 518,436 519.7,444.8 	"/>
+	<line class="st15" x1="456.9" y1="362.8" x2="514.9" y2="438.4"/>
+	<polygon points="433.5,302.7 441.5,302.8 437.3,310.8 	"/>
+	<line class="st15" x1="438.5" y1="234.6" x2="437.5" y2="302.8"/>
+	<line class="st14" x1="346" y1="439.8" x2="352.2" y2="445"/>
+	<line class="st15" x1="415.3" y1="362.8" x2="349.1" y2="442.4"/>
+	<polygon points="537.4,331.3 537.5,339.3 529.4,335.4 	"/>
+	<line class="st15" x1="584.8" y1="334.7" x2="537.4" y2="335.3"/>
+	<text transform="matrix(1 0 0 1 113.6279 212.3329)" class="st16 st17">TP53 pathway</text>
+</g>
+</svg>

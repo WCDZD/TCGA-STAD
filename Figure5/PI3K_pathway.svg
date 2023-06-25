@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1733.1 929.6" style="enable-background:new 0 0 1733.1 929.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;fill-opacity:0.5;stroke:#000000;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:14px;}
+	.st4{fill:#FF8D8D;stroke:#000000;}
+	.st5{fill:#FFDCDC;stroke:#000000;}
+	.st6{fill:#FFCDCD;stroke:#000000;}
+	.st7{fill:#FFFFFF;fill-opacity:0.5;stroke:#CCCCCC;}
+	.st8{fill:#FFFFFF;stroke:#000000;}
+	.st9{fill:#FFF8F8;stroke:#000000;}
+	.st10{fill:#FFD4D4;stroke:#000000;}
+	.st11{fill:#FFF0F0;stroke:#000000;}
+	.st12{fill:#FFE5E5;stroke:#000000;}
+	.st13{fill:#D4D4FF;stroke:#000000;}
+	.st14{fill:#F8F8FF;stroke:#000000;}
+	.st15{fill:#F0F0FF;stroke:#000000;}
+	.st16{fill:#FFC1C1;stroke:#000000;}
+	.st17{fill:#BCBCFF;stroke:#000000;}
+	.st18{fill:#CDCDFF;stroke:#000000;}
+	.st19{fill:#DCDCFF;stroke:#000000;}
+	.st20{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-opacity:0;}
+	.st21{fill:none;stroke:#000000;}
+	.st22{fill:none;stroke:#000000;stroke-width:2;}
+	.st23{font-family:'Arial-BoldMT';}
+	.st24{font-size:18px;}
+</style>
+<g>
+	<rect x="461" y="16.4" class="st0" width="669" height="600.5"/>
+	<path class="st1" d="M721.5,146.6h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C715.5,149.2,718.2,146.6,721.5,146.6z"/>
+	<text transform="matrix(1 0 0 1 783.1494 162.5519)" class="st2 st3">PIK3CA</text>
+	<rect x="720.5" y="168.6" class="st4" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 726.4243 185.7186)" class="st2 st3">8.7%</text>
+	<rect x="764.3" y="168.6" class="st5" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 770.1743 185.7186)" class="st2 st3">1.4%</text>
+	<rect x="808" y="168.6" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 813.9243 185.7186)" class="st2 st3">2.1%</text>
+	<rect x="851.8" y="168.6" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 857.6743 185.7186)" class="st2 st3">2.1%</text>
+	<rect x="919" y="132.1" class="st7" width="196" height="63"/>
+	<text transform="matrix(1 0 0 1 996.8184 211.0519)" class="st2 st3">PIK3R</text>
+	<path class="st1" d="M930.5,137.6h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C924.5,140.2,927.2,137.6,930.5,137.6z"/>
+	<text transform="matrix(1 0 0 1 992.9253 153.5519)" class="st2 st3">PIK3R2</text>
+	<rect x="929.5" y="159.6" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 935.4243 176.7186)" class="st2 st3">2.1%</text>
+	<rect x="973.3" y="159.6" class="st8" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 979.1743 176.7186)" class="st2 st3">0.0%</text>
+	<rect x="1017" y="159.6" class="st8" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 1022.9243 176.7186)" class="st2 st3">0.0%</text>
+	<rect x="1060.8" y="159.6" class="st9" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 1062.6743 176.7186)" class="st2 st3">&lt;0.5%</text>
+	<rect x="713" y="238" class="st7" width="196" height="63"/>
+	<text transform="matrix(1 0 0 1 797.3747 317.0052)" class="st2 st3">AKT</text>
+	<path class="st1" d="M724.5,243.5h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C718.5,246.2,721.2,243.5,724.5,243.5z"/>
+	<text transform="matrix(1 0 0 1 797.3747 274.5052)" class="st2 st3">AKT</text>
+	<rect x="476" y="343.1" class="st7" width="196" height="63"/>
+	<text transform="matrix(1 0 0 1 544.5687 422.1476)" class="st2 st3">mTORC2</text>
+	<path class="st1" d="M487.5,348.6h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C481.5,351.3,484.2,348.6,487.5,348.6z"/>
+	<text transform="matrix(1 0 0 1 547.2928 364.6476)" class="st2 st3">RICTOR</text>
+	<rect x="486.5" y="370.6" class="st10" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 492.3724 387.8143)" class="st2 st3">1.7%</text>
+	<rect x="530.2" y="370.6" class="st11" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 536.1224 387.8143)" class="st2 st3">0.7%</text>
+	<rect x="574" y="370.6" class="st9" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 575.8724 387.8143)" class="st2 st3">&lt;0.5%</text>
+	<rect x="617.7" y="370.6" class="st12" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 623.6224 387.8143)" class="st2 st3">1.0%</text>
+	<rect x="714.7" y="339.9" class="st7" width="196" height="63"/>
+	<text transform="matrix(1 0 0 1 798.6524 418.9325)" class="st2 st3">TSC</text>
+	<path class="st1" d="M726.2,345.4h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C720.2,348.1,722.8,345.4,726.2,345.4z"/>
+	<text transform="matrix(1 0 0 1 794.7593 361.4325)" class="st2 st3">TSC2</text>
+	<rect x="725.2" y="367.4" class="st13" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 731.0274 384.5992)" class="st2 st3">1.7%</text>
+	<rect x="768.9" y="367.4" class="st14" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 770.7774 384.5992)" class="st2 st3">&lt;0.5%</text>
+	<rect x="812.7" y="367.4" class="st15" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 818.5274 384.5992)" class="st2 st3">0.7%</text>
+	<rect x="856.4" y="367.4" class="st14" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 858.2774 384.5992)" class="st2 st3">&lt;0.5%</text>
+	<rect x="617.2" y="456" class="st7" width="397.6" height="65.4"/>
+	<text transform="matrix(1 0 0 1 786.5557 537.4473)" class="st2 st3">mTORC1</text>
+	<path class="st1" d="M825.5,461.5h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C819.5,464.2,822.2,461.5,825.5,461.5z"/>
+	<text transform="matrix(1 0 0 1 887.6238 477.5453)" class="st2 st3">RPTOR</text>
+	<rect x="824.5" y="483.5" class="st6" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 830.3724 500.7119)" class="st2 st3">2.1%</text>
+	<rect x="868.2" y="483.5" class="st9" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 870.1224 500.7119)" class="st2 st3">&lt;0.5%</text>
+	<rect x="912" y="483.5" class="st5" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 917.8724 500.7119)" class="st2 st3">1.4%</text>
+	<rect x="955.7" y="483.5" class="st11" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 961.6224 500.7119)" class="st2 st3">0.7%</text>
+	<path class="st1" d="M628.7,463.9h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C622.7,466.6,625.4,463.9,628.7,463.9z"/>
+	<text transform="matrix(1 0 0 1 694.6868 479.9473)" class="st2 st3">MTOR</text>
+	<rect x="627.7" y="485.9" class="st16" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 633.5423 503.114)" class="st2 st3">2.8%</text>
+	<rect x="671.4" y="485.9" class="st9" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 673.2923 503.114)" class="st2 st3">&lt;0.5%</text>
+	<rect x="715.2" y="485.9" class="st12" width="43.7" height="25"/>
+	<text transform="matrix(1 0 0 1 721.0423 503.114)" class="st2 st3">1.0%</text>
+	<rect x="758.9" y="485.9" class="st12" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 764.7923 503.114)" class="st2 st3">1.0%</text>
+	<path class="st1" d="M720.5,61.6h173c3.3,0,6,2.7,6,6v40c0,3.3-2.7,6-6,6h-173c-3.3,0-6-2.7-6-6v-40
+		C714.5,64.2,717.2,61.6,720.5,61.6z"/>
+	<text transform="matrix(1 0 0 1 788.3804 77.5519)" class="st2 st3">PTEN</text>
+	<rect x="719.5" y="83.6" class="st17" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 725.4243 100.7186)" class="st2 st3">3.1%</text>
+	<rect x="763.3" y="83.6" class="st15" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 769.1743 100.7186)" class="st2 st3">0.7%</text>
+	<rect x="807" y="83.6" class="st18" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 812.9243 100.7186)" class="st2 st3">2.1%</text>
+	<rect x="850.8" y="83.6" class="st19" width="43.8" height="25"/>
+	<text transform="matrix(1 0 0 1 856.6743 100.7186)" class="st2 st3">1.4%</text>
+	<rect x="776.3" y="582.7" class="st20" width="90" height="24"/>
+	<text transform="matrix(1 0 0 1 786.2419 599.7255)" class="st2 st3">Cell growth</text>
+	<polygon points="816.3,574.9 824.3,574.5 820.7,582.7 	"/>
+	<line class="st21" x1="817.6" y1="521.4" x2="820.3" y2="574.7"/>
+	<line class="st22" x1="808.1" y1="338" x2="816.1" y2="337.9"/>
+	<line class="st21" x1="811.5" y1="301" x2="812.1" y2="337.9"/>
+	<polygon points="805.8,230.1 813.8,229.9 810,238 	"/>
+	<line class="st21" x1="808.8" y1="198.6" x2="809.8" y2="230"/>
+	<line class="st22" x1="803.7" y1="144.6" x2="811.7" y2="144.5"/>
+	<line class="st21" x1="807.4" y1="113.6" x2="807.7" y2="144.6"/>
+	<line class="st22" x1="902.4" y1="164.5" x2="902.7" y2="172.5"/>
+	<line class="st21" x1="919" y1="167.8" x2="902.5" y2="168.5"/>
+	<polygon points="706.7,376.9 706.6,368.9 714.7,372.8 	"/>
+	<line class="st21" x1="666.5" y1="373.4" x2="706.7" y2="372.9"/>
+	<line class="st22" x1="811" y1="454.2" x2="819" y2="453.9"/>
+	<line class="st21" x1="813.4" y1="397.4" x2="815" y2="454"/>
+	<text transform="matrix(1 0 0 1 475.9974 47.3898)" class="st23 st24">PI3K pathway</text>
+</g>
+</svg>
