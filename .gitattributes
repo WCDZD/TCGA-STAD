@@ -1,0 +1,6 @@
+Figure3 filter=lfs diff=lfs merge=lfs -text
+Figure4 filter=lfs diff=lfs merge=lfs -text
+Figure5 filter=lfs diff=lfs merge=lfs -text
+Figure6 filter=lfs diff=lfs merge=lfs -text
+Figure7 filter=lfs diff=lfs merge=lfs -text
+Figure[[:space:]]2 filter=lfs diff=lfs merge=lfs -text
